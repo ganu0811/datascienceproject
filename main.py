@@ -71,3 +71,7 @@ try:
 except Exception as e:
     logger.exception(e)
     raise e
+
+# These are the stages of the training pipeline. 
+
+# This is now the prediction pipeline.
